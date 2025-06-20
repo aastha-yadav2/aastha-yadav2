@@ -24,6 +24,11 @@ Hi! I’m Aastha Yadav, a B.Tech student specializing in Data Science and Machin
 ---
 [![](https://visitcount.itsvg.in/api?id=aastha-yadav2&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ta8jAiAJmV)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange)](https://leetcode.com/Ta8jAiAJmV/)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
