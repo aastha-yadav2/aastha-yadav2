@@ -1,62 +1,53 @@
-👋 Hi! I’m Aastha Yadav
+# 👋 Hi! I'm Aastha Yadav
 
-🎓 B.Tech Student specializing in Data Science & Machine Learning
-🔐 Strong interest in Cybersecurity
-💡 Passionate about turning data into insights and solving real-world problems using technology
+🎓 **B.Tech Student** specializing in **Data Science & Machine Learning**  
+🔐 Strong interest in **Cybersecurity**  
+💡 Passionate about **turning data into insights** and solving **real-world problems using technology**
 
-📊 What I’m Working On
+---
 
-🎬 Movie Analysis Project — part of my second Data Analytics portfolio
+## 📊 What I'm Working On
+- 🎬 **Movie Analysis Project** — part of my **second Data Analytics portfolio**
+- 📁 Completed **two Data Analytics projects** during my **second semester**
+- 📈 Actively building **portfolio-driven, real-world projects**
 
-📁 Completed two Data Analytics projects during my second semester
+---
 
-📈 Actively building portfolio-driven, real-world projects
+## 🤝 Open to Collaboration
+- 📊 **Data Science & Machine Learning projects**
+- 🌐 **Website Design & Development**
+- 🎨 Projects that **blend creativity with analytics**
 
-🤝 Open to Collaboration
+---
 
-📊 Data Science & Machine Learning projects
+## 🎨💼 Freelancing Interests
+- 🎨 **Graphic Design**
+- 🎥 **Video Editing**
+- 🖌️ Creative projects focused on **visual storytelling and design thinking**
 
-🌐 Website Design & Development
+---
 
-🎨 Projects that blend creativity with analytics
+## 🧠 Currently Learning
+- 🤖 **Machine Learning Algorithms**
+- 🧰 Libraries like **Scikit-learn** & **TensorFlow**
+- 🔍 Developing **predictive models** and **intelligent systems**
 
-🎨💼 Freelancing Interests
+---
 
-🎨 Graphic Design
+## 💬 Ask Me About
+- 📊 **Data Analysis & Insights**
+- 🐍 **Python Programming**
+- 🎨 **Canva Design Tips**
+- 💡 **Digital & Creative Skills**
+- 🛠️ Turning **ideas into impactful projects**
 
-🎥 Video Editing
+---
 
-🖌️ Creative projects that require visual storytelling and design thinking
+## 🎨🏀 Fun Fact
+- 🎨 Love **painting & sketching**
+- 🏀🏏🏸 Play **basketball, cricket & badminton**
+- 🥈 Secured **2nd place** in a basketball competition
 
-🧠 Currently Learning
-
-🤖 Machine Learning Algorithms
-
-🧰 Libraries like Scikit-learn & TensorFlow
-
-🔍 Developing predictive models and intelligent systems
-
-💬 Ask Me About
-
-📊 Data Analysis & Insights
-
-🐍 Python Programming
-
-🎨 Canva Design Tips
-
-💡 Digital & Creative Skills
-
-🛠️ Turning ideas into impactful projects
-
-🎨🏀 Fun Fact
-
-More than just a tech enthusiast!
-
-🎨 Enjoy painting & sketching
-
-🏀🏏🏸 Play basketball, cricket & badminton
-
-🥈 Secured 2nd place in a basketball competition
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aastha-yadav-89b41a332?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavaastha00@gmail.com) 
