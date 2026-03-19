@@ -62,14 +62,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aastha-yadav2\&show_icons=true\&theme=tokyonight)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=aastha-yadav2\&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-yadav2\&layout=compact\&theme=tokyonight)
-
----
-
 # 🔥 Badges
 
 ![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-ff69b4?style=for-the-badge)
