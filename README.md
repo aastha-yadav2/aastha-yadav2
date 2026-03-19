@@ -1,4 +1,3 @@
-
 # <p align="center">👋 Hi, I'm Aastha Yadav</p>
 
 <p align="center">
@@ -19,90 +18,55 @@
 
 ---
 
-# 📊 What I'm Working On
+# 🚀 Projects
 
-* 🤖 **Jarvis AI Assistant** — smart virtual assistant project
-* 💻 **AI Code Reviewer Assistant** — built using **Streamlit**
-* 👁️ Working on **Computer Vision projects using OpenCV**
-* 🎬 **Movie Analysis Project** — part of my Data Analytics portfolio
-* 📈 Building **AI-powered, real-world projects**
-
----
-
-# 🏆 Achievements & Recognition
-
-* 🥈 **Silver Medalist (1st Year)** for excellent CGPA
-* 🥈 **2nd Place Winner** — Internal Girls Team Hackathon
-* 🏅 **Constellation Prize Winner** — Global Hackathon *Lakshagriha* (Devbhoomi University)
-* 🌍 Participated in **National Level Hackathon** at *Graphic Era Hill University*
-* 🚀 Participated in **Saarthi National Level Hackathon**
-* 💻 Active participant in **online hackathons**
+* 🤖 **Jarvis AI Assistant**
+* 💻 **AI Code Reviewer (Streamlit)**
+* 👁️ **Computer Vision Projects (OpenCV)**
+* 🎬 **Movie Analysis Project**
 
 ---
 
-# 👩‍💻 Open Source Contributions
+# 🏆 Achievements
 
-* 🌱 Contributor at **GSSoC (GirlScript Summer of Code)**
-* 🔗 Participated in **Open Source Connect**
-* 🎯 Contributor in **Hacktoberfest**
-* 📢 Shared contributions on LinkedIn (projects & community work)
-
----
-
-# 👩‍💻 IEEE Involvement
-
-* 🌸 Active member of **IEEE WIE (Women in Engineering)**
-* 🎤 Conducting and organizing **technical events & workshops**
-* 🤝 Engaged in **student tech community building**
+* 🥈 Silver Medalist (1st Year CGPA)
+* 🥈 2nd Place — Internal Girls Hackathon
+* 🏅 Constellation Prize — Lakshagriha Global Hackathon
+* 🌍 National Hackathon — Graphic Era Hill University
+* 🚀 Saarthi National Hackathon
 
 ---
 
-# 🤝 Open to Collaboration
+# 🌱 Open Source
 
-* 📊 **Data Science & Machine Learning projects**
-* 🌐 **Website Design & Development**
-* 🎨 Creative projects blending **AI + Design + Analytics**
-
----
-
-# 🎨💼 Freelancing Interests
-
-* 🎨 **Graphic Design**
-* 🎥 **Video Editing**
-* 🖌️ Visual storytelling & creative design projects
+* 💖 GSSoC Contributor
+* 🎯 Hacktoberfest Contributor
+* 🔗 Open Source Connect
 
 ---
 
-# 🧠 Currently Learning
+# 👩‍💻 IEEE
 
-* 🤖 **Machine Learning Algorithms**
-* 🧰 **Scikit-learn, TensorFlow**
-* 🔍 Building **predictive & intelligent AI systems**
-
----
-
-# 🚀 Tech Approach
-
-* 🤖 Using **AI tools** to build faster & smarter projects
-* 📊 Combining **Data Science + AI + Creativity**
-* 💡 Focused on **real-world problem solving**
+* 🌸 IEEE WIE Member
+* 🎤 Tech Event Organizer
 
 ---
 
-# 💬 Ask Me About
+# 🧠 Skills
 
-* 📊 **Data Analysis & Insights**
-* 🐍 **Python Programming**
-* 🎨 **Canva Design Tips**
-* 💡 **AI + Digital Skills**
-* 🛠️ Building impactful tech projects
+* Python, C++, Java
+* Machine Learning, Data Science
+* TensorFlow, Scikit-learn, OpenCV
+* HTML, CSS, JavaScript
+* Git, GitHub, Canva
 
 ---
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=aastha-yadav2\&show_icons=true\&theme=tokyonight)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=aastha-yadav2\&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-yadav2\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -110,27 +74,25 @@
 
 ![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-ff69b4?style=for-the-badge)
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge)
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aastha-yadav-89b41a332)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=google-chrome)](https://creative-portfolio-aastha.lovable.app/)
 
 ---
 
-# 🎨🏀 Fun Fact
+# 🎨 Fun Fact
 
-* 🎨 Love **painting & sketching**
-* 🏀🏏🏸 Play **basketball, cricket & badminton**
-* 🥈 Secured **2nd place** in basketball competition
+* 🎨 Painting & Sketching
+* 🏀 Sports (Basketball, Cricket, Badminton)
 
 ---
 
-✨ *Consistently learning, building, and growing in tech with AI!* 🚀
+✨ *Building cool things with AI & Data!* 🚀
 
 
 
