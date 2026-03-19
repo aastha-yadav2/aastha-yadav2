@@ -1,52 +1,137 @@
-# 👋 Hi! I'm Aastha Yadav
 
-🎓 **B.Tech Student** specializing in **Data Science & Machine Learning**  
-🔐 Strong interest in **Cybersecurity**  
+# <p align="center">👋 Hi, I'm Aastha Yadav</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aastha%20Yadav&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;IEEE+WIE+Member;Building+Real+World+Projects&center=true&width=500&height=45">
+</p>
+
+---
+
+# 🎓 About Me
+
+🎓 **B.Tech Student** specializing in **Data Science & Machine Learning**
+🔐 Strong interest in **Cybersecurity**
 💡 Passionate about **turning data into insights** and solving **real-world problems using technology**
 
 ---
 
-## 📊 What I'm Working On
-- 🎬 **Movie Analysis Project** — part of my **second Data Analytics portfolio**
-- 📁 Completed **two Data Analytics projects** during my **second semester**
-- 📈 Actively building **portfolio-driven, real-world projects**
+# 📊 What I'm Working On
+
+* 🤖 **Jarvis AI Assistant** — smart virtual assistant project
+* 💻 **AI Code Reviewer Assistant** — built using **Streamlit**
+* 👁️ Working on **Computer Vision projects using OpenCV**
+* 🎬 **Movie Analysis Project** — part of my Data Analytics portfolio
+* 📈 Building **AI-powered, real-world projects**
 
 ---
 
-## 🤝 Open to Collaboration
-- 📊 **Data Science & Machine Learning projects**
-- 🌐 **Website Design & Development**
-- 🎨 Projects that **blend creativity with analytics**
+# 🏆 Achievements & Recognition
+
+* 🥈 **Silver Medalist (1st Year)** for excellent CGPA
+* 🥈 **2nd Place Winner** — Internal Girls Team Hackathon
+* 🏅 **Constellation Prize Winner** — Global Hackathon *Lakshagriha* (Devbhoomi University)
+* 🌍 Participated in **National Level Hackathon** at *Graphic Era Hill University*
+* 🚀 Participated in **Saarthi National Level Hackathon**
+* 💻 Active participant in **online hackathons**
 
 ---
 
-## 🎨💼 Freelancing Interests
-- 🎨 **Graphic Design**
-- 🎥 **Video Editing**
-- 🖌️ Creative projects focused on **visual storytelling and design thinking**
+# 👩‍💻 Open Source Contributions
+
+* 🌱 Contributor at **GSSoC (GirlScript Summer of Code)**
+* 🔗 Participated in **Open Source Connect**
+* 🎯 Contributor in **Hacktoberfest**
+* 📢 Shared contributions on LinkedIn (projects & community work)
 
 ---
 
-## 🧠 Currently Learning
-- 🤖 **Machine Learning Algorithms**
-- 🧰 Libraries like **Scikit-learn** & **TensorFlow**
-- 🔍 Developing **predictive models** and **intelligent systems**
+# 👩‍💻 IEEE Involvement
+
+* 🌸 Active member of **IEEE WIE (Women in Engineering)**
+* 🎤 Conducting and organizing **technical events & workshops**
+* 🤝 Engaged in **student tech community building**
 
 ---
 
-## 💬 Ask Me About
-- 📊 **Data Analysis & Insights**
-- 🐍 **Python Programming**
-- 🎨 **Canva Design Tips**
-- 💡 **Digital & Creative Skills**
-- 🛠️ Turning **ideas into impactful projects**
+# 🤝 Open to Collaboration
+
+* 📊 **Data Science & Machine Learning projects**
+* 🌐 **Website Design & Development**
+* 🎨 Creative projects blending **AI + Design + Analytics**
 
 ---
 
-## 🎨🏀 Fun Fact
-- 🎨 Love **painting & sketching**
-- 🏀🏏🏸 Play **basketball, cricket & badminton**
-- 🥈 Secured **2nd place** in a basketball competition
+# 🎨💼 Freelancing Interests
+
+* 🎨 **Graphic Design**
+* 🎥 **Video Editing**
+* 🖌️ Visual storytelling & creative design projects
+
+---
+
+# 🧠 Currently Learning
+
+* 🤖 **Machine Learning Algorithms**
+* 🧰 **Scikit-learn, TensorFlow**
+* 🔍 Building **predictive & intelligent AI systems**
+
+---
+
+# 🚀 Tech Approach
+
+* 🤖 Using **AI tools** to build faster & smarter projects
+* 📊 Combining **Data Science + AI + Creativity**
+* 💡 Focused on **real-world problem solving**
+
+---
+
+# 💬 Ask Me About
+
+* 📊 **Data Analysis & Insights**
+* 🐍 **Python Programming**
+* 🎨 **Canva Design Tips**
+* 💡 **AI + Digital Skills**
+* 🛠️ Building impactful tech projects
+
+---
+
+# 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🔥 Badges
+
+![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-ff69b4?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=google-chrome)](YOUR_PORTFOLIO_LINK)
+
+---
+
+# 🎨🏀 Fun Fact
+
+* 🎨 Love **painting & sketching**
+* 🏀🏏🏸 Play **basketball, cricket & badminton**
+* 🥈 Secured **2nd place** in basketball competition
+
+---
+
+✨ *Consistently learning, building, and growing in tech with AI!* 🚀
+
 
 
 ## 🌐 Socials:
