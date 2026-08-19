@@ -99,8 +99,9 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aastha-yadav2&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🏆 GitHub Trophies
-![](./profile/trophy.svg)
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy-chi-ten.vercel.app/?username=aastha-yadav2&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
