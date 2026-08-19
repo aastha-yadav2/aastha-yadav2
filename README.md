@@ -106,7 +106,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 📈 Contribution Activity
 
 ![Aastha's Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=aastha-yadav2&theme=github-dark&hide_border=false)
 ---
