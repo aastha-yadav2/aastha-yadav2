@@ -1,119 +1,107 @@
-# <p align="center">👋 Hi, I'm Aastha Yadav</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Scientist&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</p>
+<p><sub>AN EDITORIAL PROFILE · AASTHA-YADAV2</sub></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;IEEE+WIE+Member;Building+Real+World+Projects&center=true&width=500&height=45">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&label=Aastha%20Yadav&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&label=Aastha%20Yadav&mode=dark" width="100%" alt="Aastha Yadav cinematic profile scene" />
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&label=Aastha%20Yadav&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&label=Aastha%20Yadav&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Aastha Yadav animated ASCII name" />
+</picture>
 
-# 🎓 About Me
+<p><strong>Frontend or full-stack engineer</strong> · India</p>
+<p>A B.Tech student specializing in Data Science and Machine Learning with a strong foundation in Python, data visualization, and preprocessing.</p>
 
-🎓 **B.Tech Student** specializing in **Data Science & Machine Learning**
-🔐 Strong interest in **Cybersecurity**
-💡 Passionate about **turning data into insights** and solving **real-world problems using technology**
+<p><a href="https://github.com/aastha-yadav2">GitHub</a> &nbsp;·&nbsp; <a href="https://creative-portfolio-aastha.lovable.app/">Website</a></p>
+</div>
 
----
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-# 🚀 Projects
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>A B.Tech student specializing in Data Science and Machine Learning with a strong foundation in Python, data visualization, and preprocessing.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · India<br />FOCUS · TypeScript</sub></p><p><strong>52</strong> repos<br /><strong>477</strong> contributions<br /><strong>5</strong> followers</p></td>
+</tr>
+</table>
 
-* 🤖 **Jarvis AI Assistant**
-* 💻 **AI Code Reviewer (Streamlit)**
-* 👁️ **Computer Vision Projects (OpenCV)**
-* 🎬 **Movie Analysis Project**
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
----
+<h2>In the current cut</h2>
 
-# 🏆 Achievements
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CJupyter%20Notebook%3A%3AIn%20the%20active%20build%20queue%7CJavaScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CJupyter%20Notebook%3A%3AIn%20the%20active%20build%20queue%7CJavaScript%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="Aastha Yadav cinematic highlights" />
+</picture>
 
-* 🥈 Silver Medalist (1st Year CGPA)
-* 🥈 2nd Place — Internal Girls Hackathon
-* 🏅 Constellation Prize — Lakshagriha Global Hackathon
-* 🌍 National Hackathon — Graphic Era Hill University
-* 🚀 Saarthi National Hackathon
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
 
----
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-# 🌱 Open Source
+<h2>Production palette</h2>
 
-* 💖 GSSoC Contributor
-* 🎯 Hacktoberfest Contributor
-* 🔗 Open Source Connect
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Aastha Yadav animated technology stack" />
+</picture>
 
----
+<p align="center"><sub>TypeScript · Jupyter Notebook · JavaScript · TeX · Python · CSS · HTML · PLpgSQL · tools chosen for the work, not the trend</sub></p>
 
-# 👩‍💻 IEEE
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-* 🌸 IEEE WIE Member
-* 🎤 Tech Event Organizer
+<h2>Featured reel</h2>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&repos=aastha-yadav2%2Faastha%2Caastha-yadav2%2FVeyra%2Caastha-yadav2%2Fekara%2Caastha-yadav2%2Fstudentos-ai-serpapi&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&repos=aastha-yadav2%2Faastha%2Caastha-yadav2%2FVeyra%2Caastha-yadav2%2Fekara%2Caastha-yadav2%2Fstudentos-ai-serpapi&v=cinematic-projects-2&mode=dark" width="100%" alt="Aastha Yadav cinematic project reel" />
+</picture>
 
-# 🧠 Skills
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/aastha-yadav2/aastha">aastha</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/aastha-yadav2/Veyra">Veyra</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/aastha-yadav2/ekara">ekara</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/aastha-yadav2/studentos-ai-serpapi">studentos-ai-serpapi</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-* Python, C++, Java
-* Machine Learning, Data Science
-* TensorFlow, Scikit-learn, OpenCV
-* HTML, CSS, JavaScript
-* Git, GitHub, Canva
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
----
+<p align="center"><sub>52 public projects · 0 stars · 477 contributions · 5 followers</sub></p>
 
-# 🔥 Badges
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-ff69b4?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge)
+<h2>Contribution trail</h2>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Aastha Yadav contribution snake" />
+</picture>
 
-# 🌐 Connect With Me
+<h2>Play the next move</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aastha-yadav-89b41a332)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=google-chrome)](https://creative-portfolio-aastha.lovable.app/)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Aastha Yadav animated chess replay" />
+</picture>
 
----
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-# 🎨 Fun Fact
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
 
-* 🎨 Painting & Sketching
-* 🏀 Sports (Basketball, Cricket, Badminton)
+<h2>Keep the story moving</h2>
 
----
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
 
-✨ *Building cool things with AI & Data!* 🚀
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&website=https%3A%2F%2Fcreative-portfolio-aastha.lovable.app%2F&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=aastha-yadav2&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F186994578%3Fu%3D26fc6254c5a4f7e18e297452593d2ebdacbbea6f%26v%3D4&website=https%3A%2F%2Fcreative-portfolio-aastha.lovable.app%2F&mode=dark" width="100%" alt="Aastha Yadav contact links" />
+</picture>
 
+<p><a href="https://github.com/aastha-yadav2">GitHub</a> &nbsp;·&nbsp; <a href="https://creative-portfolio-aastha.lovable.app/">Website</a></p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aastha-yadav-89b41a332?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavaastha00@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satnova_2017) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AasthaY48535740) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aastha-yadav2&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aastha-yadav2&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aastha-yadav2&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy-chi-ten.vercel.app/?username=aastha-yadav2&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 📈 Contribution Activity
-
-![Aastha's Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=aastha-yadav2&theme=github-dark&hide_border=false)
----
-[![](https://visitcount.itsvg.in/api?id=aastha-yadav2&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ta8jAiAJmV)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange)](https://leetcode.com/Ta8jAiAJmV/)
-
-
+<p><sub>Aastha Yadav · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
