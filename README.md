@@ -1,89 +1,117 @@
-<!-- 
-  Profile README for github.com/aastha-yadav2
-  IMPORTANT: this file must live in a PUBLIC repo named exactly `aastha-yadav2` (same as your username)
-  Replace every [PLACEHOLDER] before pushing.
--->
-
-<div align="center">
-
-# Hi, I'm Aastha Yadav 👋
-
-### CS undergrad (Data Science & ML) · Building agentic AI & full-stack AI products
-
-<p>
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-HANDLE]"><img src="https://img.shields.io/badge/LinkedIn-Aastha%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://creative-portfolio-aastha.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=aastha-yadav2&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
-
-</div>
-
----
-
-## 👩‍💻 About me
-
-I'm a B.Tech Computer Science student specializing in **Data Science and Machine Learning**. I'm going deep on **agentic AI** and I like turning ideas into working products fast — I build full-stack AI apps, ship them in hackathons, and learn in public.
-
-- 🔭 Currently exploring: **agentic AI systems** (LangGraph, tool-using agents, evals)
-- 🛠️ Building: **[1-line about your current main project]**
-- 🌱 Learning: **[e.g. multi-agent orchestration, RAG, system design]**
-- 🏆 Hackathon participant & winner — I enjoy building under pressure with small, fast teams
-- 💬 Ask me about: **React + TypeScript, FastAPI, Firebase/Supabase, AI agents, hackathons**
-- 📫 Open to: **AI/ML internships, collabs and open-source work**
-
----
-
-## 🚀 Featured projects
-
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **Sanjeevani AI** | Voice-first, multilingual health-triage assistant powered by Google Gemma | [Python / TypeScript / Gemma] | [Repo](#) · [Demo](#) |
-| **SevaClear** | Translates Indian government notices and rejection letters into plain-language guidance | [stack] | [Repo](#) · [Demo](#) |
-| **Veyra** | [1 line: what problem does it solve?] | TypeScript | [Repo](https://github.com/aastha-yadav2/Veyra) |
-| **ekara** | [1 line: what problem does it solve?] | TypeScript | [Repo](https://github.com/aastha-yadav2/ekara) |
-| **studentos-ai-serpapi** | [1 line: what problem does it solve?] | TypeScript | [Repo](https://github.com/aastha-yadav2/studentos-ai-serpapi) |
-
-> 💡 Tip: for each project, add a screenshot/GIF and a "Live demo" link inside that repo's own README — recruiters click demos far more than code.
-
----
-
-## 🧰 Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,fastapi,firebase,supabase,postgres,html,css,git,github&perline=12" alt="Tech stack" />
-</p>
-
-**Focus areas:** Data Science · Machine Learning · Agentic AI · Full-stack web · Data visualization
-
----
-
-## 🏅 Community & achievements
-
-- 🎓 **Google Gemini Campus Ambassador (2026)**
-- 👩‍🔬 **IEEE WIE** member
-- 🌍 **Open-source contributor** — GirlScript Summer of Code (GSSoC)
-- 🏆 **Hackathon winner** — [add hackathon name + year + result, e.g. "1st place, XYZ Hackathon 2026"]
-- 🦅 **Team Lead, Silver Strikers**
-
----
-
-## 📊 GitHub stats
+# <p align="center">👋 Hi, I'm Aastha Yadav</p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aastha-yadav2&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-yadav2&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Scientist&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;AI+%26+ML+Enthusiast;Open+Source+Contributor;IEEE+WIE+Member;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🤝 Let's connect
+# 🎓 About Me
 
-I'm always up for hackathon teams, open-source collabs and AI/ML opportunities.
+🎓 **B.Tech Student** specializing in **Data Science & Machine Learning**
+🔐 Strong interest in **Cybersecurity**
+💡 Passionate about **turning data into insights** and solving **real-world problems using technology**
 
-- 💼 LinkedIn: [Aastha Yadav](https://www.linkedin.com/in/[YOUR-LINKEDIN-HANDLE])
-- 🌐 Portfolio: [creative-portfolio-aastha.lovable.app](https://creative-portfolio-aastha.lovable.app/)
-- 📧 Email: [YOUR-EMAIL]
+---
 
-<p align="center"><sub>⭐ If something here helped you, drop a star on a repo — it makes my day.</sub></p>
+# 🚀 Projects
+
+* 🤖 **Jarvis AI Assistant**
+* 💻 **AI Code Reviewer (Streamlit)**
+* 👁️ **Computer Vision Projects (OpenCV)**
+* 🎬 **Movie Analysis Project**
+
+---
+
+# 🏆 Achievements
+
+* 🥈 Silver Medalist (1st Year CGPA)
+* 🥈 2nd Place — Internal Girls Hackathon
+* 🏅 Constellation Prize — Lakshagriha Global Hackathon
+* 🌍 National Hackathon — Graphic Era Hill University
+* 🚀 Saarthi National Hackathon
+
+---
+
+# 🌱 Open Source
+
+* 💖 GSSoC Contributor
+* 🎯 Hacktoberfest Contributor
+* 🔗 Open Source Connect
+
+---
+
+# 👩‍💻 IEEE
+
+* 🌸 IEEE WIE Member
+* 🎤 Tech Event Organizer
+
+---
+
+# 🧠 Skills
+
+* Python, C++, Java
+* Machine Learning, Data Science
+* TensorFlow, Scikit-learn, OpenCV
+* HTML, CSS, JavaScript
+* Git, GitHub, Canva
+
+---
+
+# 🔥 Badges
+
+![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-ff69b4?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Contributor-orange?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aastha-yadav-89b41a332)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge\&logo=google-chrome)](https://creative-portfolio-aastha.lovable.app/)
+
+---
+
+# 🎨 Fun Fact
+
+* 🎨 Painting & Sketching
+* 🏀 Sports (Basketball, Cricket, Badminton)
+
+---
+
+✨ *Building cool things with AI & Data!* 🚀
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aastha-yadav-89b41a332?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavaastha00@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satnova_2017) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AasthaY48535740) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aastha-yadav2&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aastha-yadav2&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aastha-yadav2&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy-chi-ten.vercel.app/?username=aastha-yadav2&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 📈 Contribution Activity
+
+![Aastha's Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=aastha-yadav2&theme=github-dark&hide_border=false)
+---
+[![](https://visitcount.itsvg.in/api?id=aastha-yadav2&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ta8jAiAJmV)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange)](https://leetcode.com/Ta8jAiAJmV/)
